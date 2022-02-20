@@ -1,0 +1,20 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "Homepage for Studion Event provider and services",
+  "main": "index.js",
+  "scripts": {
+    "test": "src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://\u0016github.com/chicodelphi/sutdion.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Francisco F V Lunardi",
+  "license": "ISC"
+}
