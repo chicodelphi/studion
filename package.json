@@ -4,7 +4,8 @@
   "description": "Homepage for Studion Event provider and services",
   "main": "index.js",
   "scripts": {
-    "test": "src/index.html"
+    "start": "npx live-server src/",
+    "test": "/src/index.html"
   },
   "repository": {
     "type": "git",
