@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npx live-server src/",
-    "test": "/src/index.html"
+    "test": "src/index.html"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
     "Javascript"
   ],
   "author": "Francisco F V Lunardi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
 }
